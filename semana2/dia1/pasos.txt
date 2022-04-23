@@ -1,0 +1,11 @@
+# PARA CREAR EL ENTORNO VIRTUAL
+
+python -m venv venv
+
+# PARA ACTIVAR EL ENTORNO VIRTUAL
+
+source venv/Scripts/activate
+
+# PARA SALIR DEL ENTORNO VIRTUAL
+
+deactivate
